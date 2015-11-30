@@ -1,0 +1,12 @@
+0000:Donald Trump:true
+0001:Guy Fieri:true
+0002:Shrek:true
+0003:Lord Farquaad:false
+0004:Bob Belcher:false
+0005:Tom Haverford:false
+0006:Tyrion Lannister:false
+0007:Walter White:false
+0008:Eric Cartman:false
+0009:Jimmy McGill:false
+0010:Daryl Dixon:false
+0011:Larry David:false
