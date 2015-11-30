@@ -265,7 +265,7 @@ public class Assig5 {
 				choices[k].setEnabled(true);
 			}
 		}
-		public void makeInvisible() 		// sets the jbuttons for the choices so that they are unable to be selected.
+		public void makeInvisible() {	// sets the jbuttons for the choices so that they are unable to be selected.
 			for (int k = 0; k < choices.length; k++) {
 				choices[k].setEnabled(false);
 			}			

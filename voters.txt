@@ -1,6 +1,6 @@
-0000:Donald Trump:true
-0001:Guy Fieri:true
-0002:Shrek:true
+0000:Donald Trump:false
+0001:Guy Fieri:false
+0002:Shrek:false
 0003:Lord Farquaad:false
 0004:Bob Belcher:false
 0005:Tom Haverford:false
